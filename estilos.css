@@ -1,0 +1,45 @@
+
+* {font-family: 'Syne Mono', monospace;} 
+
+fieldset
+{ 
+
+background-color:rgb(121, 175, 226);
+
+}
+
+a:link{
+    color:rgb(255, 0, 0)
+}
+
+a:visited{
+    color:rgb(108, 10, 97)
+}
+
+a:hover{
+    color:rgb(44, 94, 194)
+}
+
+a:active{
+    color:blueviolet
+}
+
+body{
+    background-color: rgba(213, 205, 205, 0.938);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
